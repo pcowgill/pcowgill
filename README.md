@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Paul 👋🏻
 
-<!--
-**pcowgill/pcowgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m looking for a full-time position as a full-stack Solidity + TypeScript engineer in a leadership role. Ideally leading an Ethereum-related skunk works project at a larger tech company or joining a well-funded startup building on Ethereum.
 
-Here are some ideas to get you started:
+👍🏻 My interests include Ethereum, crypto, TypeScript, React Native, remote work, music, comedy, social justice, and sustainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I have an open-source side project called [Tasit](https://tasit.dev).
+
+📫 You can reach me at [`paulcowgill`](https://twitter.com/paulcowgill) on Twitter 🐦, [`pcowgill`](https://t.me/pcowgill) on Telegram 💬, or paul at cowgill dot io over email 📧
+
+😄 My pronouns are he/him/his.
+
+🌐 Here's my website: [cowgill.io](https://cowgill.io)
