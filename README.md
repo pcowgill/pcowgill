@@ -1,9 +1,3 @@
-### Hey, I'm Paul 👋🏻
+👋🏻 I'm a product person and engineer. I'm interested in Ethereum, Solidity, NFTs, crypto, product, TypeScript, React, AI, music, and comedy.
 
-👍🏻 My interests include Ethereum, crypto, TypeScript, React Native, remote work, music, comedy, social justice, and sustainability.
-
-📫 You can reach me at [`paulcowgill`](https://twitter.com/paulcowgill) on Twitter 🐦, [`pcowgill`](https://t.me/pcowgill) on Telegram 💬, or paul at cowgill dot io over email 📧
-
-😄 My pronouns are he/him/his.
-
-🌐 Here's my website: [cowgill.io](https://cowgill.io)
+📫 You can reach me at [`paulcowgill`](https://twitter.com/paulcowgill) on Twitter 🐦, [`pcowgill`](https://t.me/pcowgill) on Telegram 💬, or pauldavidcowgill at gmail dot com over email 📧
